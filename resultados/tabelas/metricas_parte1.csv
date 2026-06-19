@@ -1,0 +1,14 @@
+Métrica,Resultado,Observação
+Número de vértices,7144,Computado
+Número de arestas,178443,Computado
+Grau mínimo,1,Computado
+Grau máximo,6695,Computado
+Grau médio,49.956,Computado
+Densidade,0.006994,Computado
+Número de componentes conexas,1,Computado
+Tamanho das componentes,[7144],Computado
+Diâmetro,4,Computado
+Raio,3,Computado
+Comprimento médio dos caminhos,2.025227127036407,Computado
+Coeficiente médio de clusterização,0.0,Computado
+Número de triângulos,0,Grafo bipartido não possui ciclos de tamanho 3
